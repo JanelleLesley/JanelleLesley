@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Janelle and I am a front-end web developer. You can check out my portfolio site @ janelles-portfolio.netlify.app and/or take a look at my Linkedin @  www.linkedin.com/in/JanelleLesley. 
+My name is Janelle and I am a front-end web developer. You can check out my portfolio site @ www.janelles-portfolio.netlify.app and/or take a look at my Linkedin @  www.linkedin.com/in/JanelleLesley. 
 <!--
 **JanelleLesley/JanelleLesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
